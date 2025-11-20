@@ -1,8 +1,8 @@
-# 🚗 Mcquenn Carros
+## Mcqueen Carros
 
 Sistema desenvolvido para disciplina de Programação Web, utilizando **PHP**, **MySQL**, **HTML** e **CSS**.
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 O sistema permite gerenciar:
 
@@ -14,11 +14,11 @@ O sistema permite gerenciar:
 
 Com operações de **cadastro, listagem, edição e exclusão**, seguindo o padrão CRUD.
 
-## 🖥️ Tela Inicial
+## Tela Inicial
 
-![Tela inicial do sistema]()
+![Tela inicial do sistema](https://github.com/ingridGuimas/Programacao_Web_UDF/blob/main/tela_i_nicial.png)
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **PHP**
 * **MySQL**
@@ -26,7 +26,7 @@ Com operações de **cadastro, listagem, edição e exclusão**, seguindo o padr
 * **CSS3**
 * **Bootstrap**
 
-## 📂 Como Executar o Projeto
+## Como Executar o Projeto
 
 1. Coloque o projeto em uma pasta dentro do **XAMPP** ou **WAMP** (ex: `htdocs`).
 2. Importe o banco de dados que está na pasta `database/`.
@@ -37,8 +37,12 @@ Com operações de **cadastro, listagem, edição e exclusão**, seguindo o padr
    http://localhost/nome-da-pasta/
    ```
 
-## 👩‍💻 Autora
+## Autora
 
 **Ingrid Guimarães**
+
+**Disciplina: Programação Web**
+
+**Professor: Eliel Cruz**
 
 
